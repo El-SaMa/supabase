@@ -1,4 +1,3 @@
-```markdown
 # Supabase Setup Script
 
 This script automates the installation of **Docker, Docker Compose, and Supabase** on a **Debian-based VM**. It will:
